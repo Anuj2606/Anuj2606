@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Anuj Sawant  
 
-### 🚀 Full Stack Developer | AI/ML Enthusiast | SaaS Builder  
+###  Full Stack Developer | AI/ML Enthusiast | SaaS Builder  
 
 Passionate about building scalable, responsive, and user-friendly web applications using modern technologies. I enjoy creating full-stack projects, SaaS platforms, and AI-powered applications that solve real-world problems.  
 
@@ -12,7 +12,6 @@ Passionate about building scalable, responsive, and user-friendly web applicatio
 - 👯 **Looking to collaborate on:** Full Stack, SaaS, and AI-based projects  
 - 🤔 **Looking for help with:** Scaling projects & improving system design  
 - 💬 **Ask me about:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL & Full Stack Development  
-- 📫 **How to reach me:** your.email@example.com  
 - ⚡ **Fun fact:** I love turning ideas into real-world applications 🚀
 
 ## 🌐 Socials:
