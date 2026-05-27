@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Anuj Sawant  
+
+### 🚀 Full Stack Developer | AI/ML Enthusiast | SaaS Builder  
+
+Passionate about building scalable, responsive, and user-friendly web applications using modern technologies. I enjoy creating full-stack projects, SaaS platforms, and AI-powered applications that solve real-world problems.  
+
+📧 **Email:** anujsawant26@gmail.com  
+💼 Open for internships, collaborations, and exciting development opportunities.  
+
+- 🔭 **Currently working on:** Full Stack & SaaS Projects  
+- 🌱 **Currently learning:** AI/ML, Advanced Backend Development & Cloud Computing  
+- 👯 **Looking to collaborate on:** Full Stack, SaaS, and AI-based projects  
+- 🤔 **Looking for help with:** Scaling projects & improving system design  
+- 💬 **Ask me about:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL & Full Stack Development  
+- 📫 **How to reach me:** your.email@example.com  
+- ⚡ **Fun fact:** I love turning ideas into real-world applications 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-sawant-a36a63298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujsawant26@gmail.com) 
@@ -8,6 +24,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=Anuj2606&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Anuj2606&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anuj2606&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anuj2606&theme=radical&no-frame=false&no-bg=true&margin-w=4)
