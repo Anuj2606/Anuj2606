@@ -4,7 +4,7 @@
 
 Passionate about building scalable, responsive, and user-friendly web applications using modern technologies. I enjoy creating full-stack projects, SaaS platforms, and AI-powered applications that solve real-world problems.  
 
-📧 **Email:** anujsawant26@gmail.com  
+📧 **Email:** devwithanuj7@gmail.com  
 💼 Open for internships, collaborations, and exciting development opportunities.  
 
 - 🔭 **Currently working on:** Full Stack & SaaS Projects  
