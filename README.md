@@ -2,7 +2,7 @@
 
 ###  AI/ML Engineer | Full Stack Developer 
 
-Aspiring AI/ML engineer with a full-stack foundation — I build intelligent, data-driven applications and enjoy turning research and real-world problems into working systems, from threat intelligence to computer vision to optimization.  
+B.Tech AI/ML student and Full Stack Developer with hands-on experience building production-grade web applications using React.js, Next.js, Node.js, Express.js, Python, and MongoDB. Skilled in designing RESTful APIs, integrating AI/ML models into full-stack systems, and shipping projects end-to-end — from data pipelines to deployed UI.
 
 📧 **Email:** devwithanuj7@gmail.com  
 💼 Open for internships, collaborations, and exciting development opportunities.  
