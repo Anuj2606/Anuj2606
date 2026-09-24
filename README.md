@@ -4,7 +4,7 @@
 
 B.Tech AI/ML student and Full Stack Developer with hands-on experience building production-grade web applications using React.js, Next.js, Node.js, Express.js, Python, and MongoDB. Skilled in designing RESTful APIs, integrating AI/ML models into full-stack systems, and shipping projects end-to-end — from data pipelines to deployed UI.
 
-📧 **Email:** devwithanuj7@gmail.com  
+📧 **Email:** anujsawant26@gmail.com  
 💼 Open for internships, collaborations, and exciting development opportunities.  
 
 ## 🌐 Socials:
